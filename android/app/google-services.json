@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549645602354",
+    "project_id": "belajarreduxrn-afa87",
+    "storage_bucket": "belajarreduxrn-afa87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549645602354:android:d6d30a7cb175005140362b",
+        "android_client_info": {
+          "package_name": "com.belajarreduxrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549645602354-h1p5m4jbh03qiisqke1h490rbrefr2g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKM-JDRLMO7BAs1EBX4DL_KiJv97aN16I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549645602354-h1p5m4jbh03qiisqke1h490rbrefr2g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
